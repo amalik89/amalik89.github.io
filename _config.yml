@@ -27,11 +27,11 @@ author:
   avatar           : "Asst Prof Dr Anjum Naeem Malik.JPG"
   name             : "Dr. Anjum Naeem Malik"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor | PhD Biomedical Engineering | Smart Refrigeration | Medical Devices"
+  location         : "Pakistan"
+  employer         : "National University of Sciences & Technology (NUST)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amalik17@ku.edu.tr" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=avsYku8AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3511-3887"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
