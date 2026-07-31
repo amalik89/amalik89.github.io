@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
 ---
-
 <section style="padding:80px 20px; text-align:center;">
 
 <img src="/images/Asst Prof Dr Anjum Naeem Malik.JPG"
